@@ -33,6 +33,14 @@ Show price of item
 
 ```$ python focus.py -i maize```
 
+Show stock price in a diferent language and currency
+
+```bash
+python focus.py -i maize -l pt -c KES
+```
+![Stock](./stock.png)
+
+
 Change display language
 
 ```$ python focus.py -l fr```
@@ -47,3 +55,5 @@ List supported currencies
 
 
 ![Screenshot](./sample.png)
+
+
