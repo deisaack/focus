@@ -10,9 +10,6 @@ Handle user input errors gracefully
 Provide a help menu
 
 
-
-
-
 What to submit
 Complete the design and code as defined to the best of your abilities
 Place notes in your code to help with clarity where appropriate. Make it readable enough to present to the Focus Mobile interview team

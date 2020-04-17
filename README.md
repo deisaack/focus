@@ -1,6 +1,7 @@
 ### Focus Mobile Challenge Solution
 
-This is the solution to [Focus Mobile Interview Challenge](./question.md)
+This is the solution to Focus Mobile Interview Challenge [Question 1](./question1.md)
+and [Question 2](./question2.md)
 
 To run the application, follow the following instruction
 
@@ -22,4 +23,27 @@ To get help,
 $ python3 focus.py -h
 ```
 
-![Screenshot](./screenshot.png)
+
+
+Show supported currencies 
+
+```$ python focus.py -c KES```
+
+Show price of item 
+
+```$ python focus.py -i maize```
+
+Change display language
+
+```$ python focus.py -l fr```
+
+List supported language 
+
+```$ python focus.py -s```
+
+List supported currencies
+
+```$ python focus.py -k```
+
+
+![Screenshot](./sample.png)
