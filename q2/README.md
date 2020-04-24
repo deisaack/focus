@@ -8,7 +8,7 @@ To run the application, follow the following instruction
 ```bash
 
 $ git clone https://github.com/kipkemei/focus-interview.git
-$ cd focus-interview
+$ cd focus-interview/q2
 $ pip install -r requirements.txt
 ``` 
 
