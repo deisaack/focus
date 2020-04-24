@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="032dc172-1001-4197-906a-143a5f877f5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert/currencylayer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert/fixer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency/Currencies.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/focus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/language/Languages.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/language/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/language/translateor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/question1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/question2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock/item.py" beforeDir="false" />
-    </list>
+    <list default="true" id="032dc172-1001-4197-906a-143a5f877f5c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,17 +181,17 @@
       <workItem from="1586970234007" duration="17940000" />
       <workItem from="1587058117834" duration="18940000" />
       <workItem from="1587116905821" duration="9867000" />
-      <workItem from="1587707940901" duration="336000" />
+      <workItem from="1587707940901" duration="976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53768000" />
+    <option name="totallyTimeSpent" value="54408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1250" height="709" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12748344" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12748344" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -225,7 +206,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32996634" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.47306398" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.47306398" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -377,6 +358,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="281">
             <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           </first_editor>
           <second_editor />
         </state>
